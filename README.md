@@ -1,7 +1,7 @@
 # Projeto final do curso de JavaScript para WEB MODERNO 2019 na Udemy. (**Backend**)
 
 ## Projeto client-side
-- [Repositório](https://github.com/Maycon-PE/knowledge-Frontend "knowledge-Frontend")
+- [Repositório](https://github.com/JoseMayconHS/knowledge-frontend "knowledge-Frontend")
 
 ## Ressalvas
 - Projeto do curso x Este prejeto final
